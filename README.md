@@ -26,7 +26,7 @@ This app allows users to add entries into a budget tracker, online or off. The e
 
 This application is hosted on Heroku. No installation necessary.
 
-[mongo-workout](https://rr-budget-tracker-hw.herokuapp.com/)
+[progressive-budget](https://rr-budget-tracker-hw.herokuapp.com/)
 
 
 ---
