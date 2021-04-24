@@ -17,7 +17,7 @@
 
 This app allows users to add entries into a budget tracker, online or off. The entries are charted onto a graph.
 
-![Screenshot:](https://github.com/rroyalty/mongo-workout/blob/main/public/screenshot.jpg)  
+![Screenshot:](https://github.com/rroyalty/budget-tracker/blob/main/public/screenshot.jpg)  
 
 
 ---
